@@ -1,0 +1,13 @@
+INFO:root:__init__ with args: (<__main__.Friend object at 0x0000026D849D35C8>, 'Friends.db') and kwargs: {}
+INFO:root:delete_friend with args: (<__main__.Friend object at 0x0000026D849D35C8>, '4') and kwargs: {}
+INFO:root:list_friends with args: (<__main__.Friend object at 0x0000026D849D35C8>,) and kwargs: {}
+INFO:root:__init__ with args: (<__main__.Friend object at 0x00000174F46834C8>, 'Friends.db') and kwargs: {}
+INFO:root:list_friends with args: (<__main__.Friend object at 0x00000174F46834C8>,) and kwargs: {}
+INFO:root:__init__ with args: ('Friends.db',) and kwargs: {}
+INFO:root:list_friends with args: () and kwargs: {}
+INFO:root:__init__ with args: (<__main__.Friend object at 0x0000022FB5D23508>, 'Friends.db') and kwargs: {}
+INFO:root:list_friends with args: (<__main__.Friend object at 0x0000022FB5D23508>,) and kwargs: {}
+INFO:root:__init__ with args: (<__main__.Friend object at 0x0000026E61903708>, 'Friends.db') and kwargs: {}
+INFO:root:add_friend with args: (<__main__.Friend object at 0x0000026E61903708>, 'Julia', 'Fox', '123-456') and kwargs: {}
+INFO:root:check_existing with args: (<__main__.Friend object at 0x0000026E61903708>, 'Julia', 'Fox', '123-456') and kwargs: {}
+INFO:root:list_friends with args: (<__main__.Friend object at 0x0000026E61903708>,) and kwargs: {}
